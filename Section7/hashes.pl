@@ -8,6 +8,7 @@
 #keys are strings, not numbers
 #has keys are not in sequential
 #jsut like java maps
+#hashes are declared using the % sign
 
 %my_hash = ("name1" => "Victor", "name2" => "Davis", "name3" => "Josh",);
 print("$my_hash\n");
